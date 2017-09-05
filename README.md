@@ -11,6 +11,7 @@ Assuming Homebrew is installed
 
 #### Build Gource
 From project root
+- $`git submodule update`
 - $`cd Gource`
 - $`./configure`
 - $`make install`
