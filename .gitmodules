@@ -1,0 +1,3 @@
+[submodule "Gource"]
+	path = Gource
+	url = git@github.com:acaudwell/Gource.git
